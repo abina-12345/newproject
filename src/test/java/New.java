@@ -5,11 +5,9 @@ public class New {
 		// TODO Auto-generated method stub
 		int a=10;
 		int b=20;
-		
-		int c=a+b;
 		//add
+		int c=a+b;
+		
 		System.out.println(c);
-
-	}
-
+		}
 }
