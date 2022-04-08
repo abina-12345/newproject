@@ -9,6 +9,10 @@ public class New {
 		int c=a+b;
 		//add
 		System.out.println(c);
+		
+		int d=a*b;
+		System.out.println(d);
+		
 
 	}
 
